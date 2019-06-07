@@ -8,6 +8,11 @@ body {
  font: 14px/1.3 PT Sans, Arial, sans-serif;
  min-width: 980px;
 }
+
+.comments {
+	font-size: 18px;
+
+}
 /* Common styles. */
 
 .center-wrapper {
